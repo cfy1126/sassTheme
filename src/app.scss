@@ -1,0 +1,8 @@
+// $theme-colors: (
+//     'primary': red,
+//     'danger': #ff4136
+// );
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'colours';
+@import 'header';
+@import 'content';
